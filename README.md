@@ -9,11 +9,6 @@ MySQL Server
 MySQL Workbench
 IntelliJ IDEA
 
-## Steps ::
-Clone the repository:
-git clone https://github.com/your-username/employee-management-system.git
-cd JavaSpringbootCRUD
-
 ## Set up the MySQL database:
 Open MySQL Workbench.
 Create a new schema (database) named ems.
